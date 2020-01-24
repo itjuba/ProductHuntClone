@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="430edcd6-c9c3-4b71-b7ee-7c04481df744" name="Default Changelist" comment="" />
+    <list default="true" id="430edcd6-c9c3-4b71-b7ee-7c04481df744" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/images/80031522_1025444674496474_5190337637843468288_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/80031522_1025444674496474_5190337637843468288_o_5tapVST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/80404609_2662906153789433_1253296629776121856_o_fRonYsx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/82135512_455952755310097_5758600538824376320_n_5pN0UV7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producthunt/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producthunt/templates/ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/templates/ajax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producthunt/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WLRA9x1z0Ul5KzALj0lgaWIPt8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Django-Likes-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/producthunt/static" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -23,10 +40,11 @@
       <recent name="$PROJECT_DIR$/producthunt/static" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/producthunt/static" />
+      <recent name="$PROJECT_DIR$/producthunt/static/font-d" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/producthunt" />
       <recent name="$PROJECT_DIR$/products/templates/products" />
-      <recent name="$PROJECT_DIR$/accounts" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -58,6 +76,9 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="416" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579033506371">
       <screen x="0" y="32" width="1366" height="736" />
@@ -71,10 +92,10 @@
       <screen x="0" y="32" width="1366" height="736" />
     </state>
     <state x="180" y="33" key="SettingsEditor/0.32.1366.736@0.32.1366.736" timestamp="1579284394046" />
-    <state x="362" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1579333103570">
+    <state x="362" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1579794941645">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state x="362" y="227" key="com.intellij.ide.util.TipDialog/0.32.1366.736@0.32.1366.736" timestamp="1579333103570" />
+    <state x="362" y="227" key="com.intellij.ide.util.TipDialog/0.32.1366.736@0.32.1366.736" timestamp="1579794941645" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579284238090">
       <screen x="0" y="32" width="1366" height="736" />
     </state>

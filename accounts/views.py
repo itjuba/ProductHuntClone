@@ -26,6 +26,7 @@ def signup(request):
 
 def login(request):
         if request.method == 'POST':
+            print(request.user.is_authenticated)
             user = auth.authenticate(username=request.POST['username'], password=request.POST['password'])
             if user is not None:
                 auth.login(request, user)
@@ -33,6 +34,7 @@ def login(request):
             else:
                 return render(request, 'accounts/login.html', {'error': 'username or password invalid'})
         else:
+         print(request.user.is_authenticated)
          return render(request,'accounts/login.html')
 
 
