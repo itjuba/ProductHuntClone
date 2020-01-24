@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="430edcd6-c9c3-4b71-b7ee-7c04481df744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/images/80031522_1025444674496474_5190337637843468288_o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/80031522_1025444674496474_5190337637843468288_o_5tapVST.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/80404609_2662906153789433_1253296629776121856_o_fRonYsx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/82135512_455952755310097_5758600538824376320_n_5pN0UV7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producthunt/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producthunt/templates/ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/templates/ajax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producthunt/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +26,19 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/producthunt/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/producthunt/static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/producthunt/static" />
       <recent name="$PROJECT_DIR$/producthunt/static/font-d" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/producthunt" />
-      <recent name="$PROJECT_DIR$/products/templates/products" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/producthunt/static" />
     </key>
   </component>
   <component name="ServiceViewManager">
