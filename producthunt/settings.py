@@ -1,4 +1,5 @@
 import os
+import django_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -67,8 +68,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'producthuntdb',
-        'USER': 'postgres',
-        'PASSWORD': 'nadjib',
+        'USER': 'DB_USER',
+        'PASSWORD': 'DB_PASS',
         'HOST': 'localhost',
         'PORT': '5432'
     }
@@ -119,4 +120,5 @@ STATIC_URL = '/static/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
- 
+
+django_heroku.settings(locals())
