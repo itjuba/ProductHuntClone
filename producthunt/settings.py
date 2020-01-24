@@ -13,7 +13,7 @@ SECRET_KEY = 'x(uqjc=an89seo%ube^cd^ki4(j&o1zr+ewu8h+*u2$nej@$^b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['producthuntn.herokuapp.com']
 
 
 # Application definition
